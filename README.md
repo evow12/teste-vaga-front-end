@@ -14,6 +14,7 @@ Desenvolver o frontend conforme imagem proposta no projeto.
 - Fazer a persistência dos dados no localStorage
 - Após salvar exibir em uma nova página os dados salvos em localStorage
 
+
 **Observações**
 
 O logo do projeto está dentro do diretório "images" com o nome logo-evo.svg
@@ -21,5 +22,5 @@ O logo do projeto está dentro do diretório "images" com o nome logo-evo.svg
 ### 1. Pagina de cadastro
 ![alt text](images/especificacao.PNG)
 
-### 2. Pagina com as informações
+### 2. PÁgina com as informações
 ![alt text](images/informacoes.png)
