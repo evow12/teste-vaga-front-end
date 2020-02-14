@@ -15,5 +15,8 @@ Desenvolver o frontend conforme imagem proposta no projeto.
 - Após salvar exibir em uma nova página os dados salvos em localStorage
 
 
-### Style guide
+### Pagina de cadastro
 ![alt text](images/especificacao.PNG)
+
+### Pagina com as informações
+![alt text](images/informacoes.PNG)
