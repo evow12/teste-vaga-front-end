@@ -19,4 +19,4 @@ Desenvolver o frontend conforme imagem proposta no projeto.
 ![alt text](images/especificacao.PNG)
 
 ### Pagina com as informações
-![alt text](images/informacoes.PNG)
+![alt text](images/informacoes.png)
